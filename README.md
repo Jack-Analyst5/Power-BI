@@ -14,4 +14,4 @@ Part of the course is to develop a Power BI dashboard, and the following screens
 
 ![Year-to-Date Analysis](PowerBI_4.png)
 
-![Forecast](PowerBI_1.png)
+![Forecast](PowerBI_5.png)
