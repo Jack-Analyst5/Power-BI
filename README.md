@@ -34,7 +34,7 @@ Insert Graph 8: Customer Distribution by Country
 -- Secondary Dataset Findings
 The secondary dataset revealed that 51.06% of customers were female, while middle-aged consumers were the most frequent purchasers. It also showed that beauty products were more popular among middle-aged shoppers, while older customers spent more on electronics.
 
-![Customer Distribution by Gender] (https://github.com/Jack-Analyst5/Power-BI/blob/main/Customer_Distribution_by%20_Gender.png)
+![Customer Distribution by Gender](Customer_Distribution_by_Gender.png)
 Insert Graph 10: Sales by Age Group
 Insert Graph 11: Product Category Preferences by Age Group and Gender
 
