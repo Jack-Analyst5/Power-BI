@@ -23,7 +23,7 @@ The company generated approximately $1.19 million in sales between 2015 and 2018
 Product Performance
 Uncategorized products and Christmas-related products generated the highest sales. The Christmas Retrospot Star Wood was identified as the top-performing product across all years, making it a significant contributor to revenue but also creating dependency on a seasonal item.
 
-Insert Graph 6: Sales by Product Category
+![Sales by Product Category}(
 Insert Graph 7: Top 10 Products by Sales
 
 # Customer Insights
